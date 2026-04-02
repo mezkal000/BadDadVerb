@@ -1,0 +1,3 @@
+/Users/adamwardin/Desktop/BadDadVerb/BadDadVerb_fixed/Build/_deps/juce-subbuild/CMakeFiles/juce-populate.dir
+/Users/adamwardin/Desktop/BadDadVerb/BadDadVerb_fixed/Build/_deps/juce-subbuild/CMakeFiles/edit_cache.dir
+/Users/adamwardin/Desktop/BadDadVerb/BadDadVerb_fixed/Build/_deps/juce-subbuild/CMakeFiles/rebuild_cache.dir

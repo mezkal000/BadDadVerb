@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DADBADBASS_PARAMS presetName="Survivor's Lullaby">
+  <PARAM id="input" value="0.000000"/>
+  <PARAM id="drive" value="1.800000"/>
+  <PARAM id="blend" value="0.450000"/>
+  <PARAM id="bass" value="3.000000"/>
+  <PARAM id="mid" value="2.000000"/>
+  <PARAM id="treble" value="1.000000"/>
+  <PARAM id="presence" value="4.000000"/>
+  <PARAM id="gate" value="-62.000000"/>
+  <PARAM id="output" value="-6.000000"/>
+  <PARAM id="missilerange" value="0.150000"/>
+  <PARAM id="casualties" value="1800.000000"/>
+  <PARAM id="realshit" value="0.000000"/>
+  <PARAM id="coldwar" value="0.000000"/>
+  <PARAM id="repaircables" value="0.000000"/>
+  <PARAM id="cutcable" value="0.000000"/>
+  <PARAM id="satellite" value="1.000000"/>
+  <PARAM id="armmissiles" value="0.000000"/>
+</DADBADBASS_PARAMS>

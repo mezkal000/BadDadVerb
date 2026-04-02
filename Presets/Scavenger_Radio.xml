@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DADBADBASS_PARAMS presetName="Scavenger Radio">
+  <PARAM id="input" value="-8.000000"/>
+  <PARAM id="drive" value="7.000000"/>
+  <PARAM id="blend" value="1.000000"/>
+  <PARAM id="bass" value="-10.000000"/>
+  <PARAM id="mid" value="12.000000"/>
+  <PARAM id="treble" value="6.000000"/>
+  <PARAM id="presence" value="10.000000"/>
+  <PARAM id="gate" value="-38.000000"/>
+  <PARAM id="output" value="-10.000000"/>
+  <PARAM id="missilerange" value="0.000000"/>
+  <PARAM id="casualties" value="3500.000000"/>
+  <PARAM id="realshit" value="1.000000"/>
+  <PARAM id="coldwar" value="0.000000"/>
+  <PARAM id="repaircables" value="0.000000"/>
+  <PARAM id="cutcable" value="1.000000"/>
+  <PARAM id="satellite" value="0.000000"/>
+  <PARAM id="armmissiles" value="0.000000"/>
+</DADBADBASS_PARAMS>

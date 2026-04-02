@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DADBADBASS_PARAMS presetName="Biohazard Pulse">
+  <PARAM id="input" value="18.000000"/>
+  <PARAM id="drive" value="6.500000"/>
+  <PARAM id="blend" value="0.800000"/>
+  <PARAM id="bass" value="5.000000"/>
+  <PARAM id="mid" value="-2.000000"/>
+  <PARAM id="treble" value="-5.000000"/>
+  <PARAM id="presence" value="2.000000"/>
+  <PARAM id="gate" value="-25.000000"/>
+  <PARAM id="output" value="-4.000000"/>
+  <PARAM id="missilerange" value="0.900000"/>
+  <PARAM id="casualties" value="400.000000"/>
+  <PARAM id="realshit" value="0.000000"/>
+  <PARAM id="coldwar" value="1.000000"/>
+  <PARAM id="repaircables" value="0.000000"/>
+  <PARAM id="cutcable" value="0.000000"/>
+  <PARAM id="satellite" value="0.000000"/>
+  <PARAM id="armmissiles" value="1.000000"/>
+</DADBADBASS_PARAMS>

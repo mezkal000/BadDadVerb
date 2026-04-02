@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DADBADBASS_PARAMS presetName="Nuclear Winter">
+  <PARAM id="input" value="-6.000000"/>
+  <PARAM id="drive" value="1.500000"/>
+  <PARAM id="blend" value="0.400000"/>
+  <PARAM id="bass" value="-6.000000"/>
+  <PARAM id="mid" value="-8.000000"/>
+  <PARAM id="treble" value="-2.000000"/>
+  <PARAM id="presence" value="-4.000000"/>
+  <PARAM id="gate" value="-65.000000"/>
+  <PARAM id="output" value="-9.000000"/>
+  <PARAM id="missilerange" value="0.000000"/>
+  <PARAM id="casualties" value="800.000000"/>
+  <PARAM id="realshit" value="0.000000"/>
+  <PARAM id="coldwar" value="0.000000"/>
+  <PARAM id="repaircables" value="0.000000"/>
+  <PARAM id="cutcable" value="0.000000"/>
+  <PARAM id="satellite" value="1.000000"/>
+  <PARAM id="armmissiles" value="0.000000"/>
+</DADBADBASS_PARAMS>

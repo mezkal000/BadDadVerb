@@ -1,0 +1,49 @@
+name: Build Windows Installer
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: windows-latest
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+
+    - name: Cache CMake build
+      uses: actions/cache@v4
+      with:
+        path: Build
+        key: ${{ runner.os }}-cmake-${{ hashFiles('CMakeLists.txt') }}
+        restore-keys: ${{ runner.os }}-cmake-
+
+    - name: Configure CMake
+      run: cmake -B Build -DCMAKE_BUILD_TYPE=Release
+
+    - name: Build
+      run: cmake --build Build --config Release --parallel
+
+    - name: Collect VST3
+      shell: pwsh
+      run: |
+        New-Item -ItemType Directory -Force -Path dist\VST3 | Out-Null
+        Copy-Item -Recurse "Build\BadDadVerb_artefacts\Release\VST3\BadDadVerb.vst3" dist\VST3\
+
+    - name: Build installer
+      shell: pwsh
+      run: |
+        $iscc = "C:\Program Files (x86)\Inno Setup 6\ISCC.exe"
+        if (-not (Test-Path $iscc)) {
+          choco install innosetup --no-progress -y
+          $iscc = "ISCC.exe"
+        }
+        & $iscc installer\BadDadVerb.iss
+
+    - name: Upload installer
+      uses: actions/upload-artifact@v4
+      with:
+        name: BadDadVerb-Windows-Installer
+        path: installer\Output\BadDadVerb_Setup.exe
+        retention-days: 30

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DADBADBASS_PARAMS presetName="Zombies Coming">
+  <PARAM id="input" value="8.000000"/>
+  <PARAM id="drive" value="7.500000"/>
+  <PARAM id="blend" value="0.900000"/>
+  <PARAM id="bass" value="10.000000"/>
+  <PARAM id="mid" value="-3.000000"/>
+  <PARAM id="treble" value="-6.000000"/>
+  <PARAM id="presence" value="-2.000000"/>
+  <PARAM id="gate" value="-45.000000"/>
+  <PARAM id="output" value="-3.000000"/>
+  <PARAM id="missilerange" value="0.600000"/>
+  <PARAM id="casualties" value="200.000000"/>
+  <PARAM id="realshit" value="0.000000"/>
+  <PARAM id="coldwar" value="1.000000"/>
+  <PARAM id="repaircables" value="0.000000"/>
+  <PARAM id="cutcable" value="0.000000"/>
+  <PARAM id="satellite" value="0.000000"/>
+  <PARAM id="armmissiles" value="1.000000"/>
+</DADBADBASS_PARAMS>

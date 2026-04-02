@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+05e4b7f735d169e0f9c0d1f3ea3bdbaf BadDadVerb_artefacts/JuceLibraryCode/BadDadVerb_AU/PkgInfo
+f43616a3a0b5f2d2d7ca3cc0691d1bae BadDadVerb_artefacts/JuceLibraryCode/BadDadVerb_Standalone/PkgInfo
+a1bf679c49c223ebefc310714557bb98 BadDadVerb_artefacts/JuceLibraryCode/BadDadVerb_VST3/PkgInfo
+c112c0d7c2d16ec80def2c3559ebf1f3 juce_binarydata_DadBassAssets/JuceLibraryCode/BinaryData1.cpp

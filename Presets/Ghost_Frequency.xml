@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DADBADBASS_PARAMS presetName="Ghost Frequency">
+  <PARAM id="input" value="-12.000000"/>
+  <PARAM id="drive" value="2.500000"/>
+  <PARAM id="blend" value="0.300000"/>
+  <PARAM id="bass" value="-12.000000"/>
+  <PARAM id="mid" value="-6.000000"/>
+  <PARAM id="treble" value="4.000000"/>
+  <PARAM id="presence" value="12.000000"/>
+  <PARAM id="gate" value="-70.000000"/>
+  <PARAM id="output" value="-15.000000"/>
+  <PARAM id="missilerange" value="0.000000"/>
+  <PARAM id="casualties" value="2400.000000"/>
+  <PARAM id="realshit" value="0.000000"/>
+  <PARAM id="coldwar" value="1.000000"/>
+  <PARAM id="repaircables" value="1.000000"/>
+  <PARAM id="cutcable" value="1.000000"/>
+  <PARAM id="satellite" value="1.000000"/>
+  <PARAM id="armmissiles" value="0.000000"/>
+</DADBADBASS_PARAMS>

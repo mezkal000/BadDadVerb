@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DADBADBASS_PARAMS presetName="Siege Engine">
+  <PARAM id="input" value="15.000000"/>
+  <PARAM id="drive" value="4.500000"/>
+  <PARAM id="blend" value="0.700000"/>
+  <PARAM id="bass" value="12.000000"/>
+  <PARAM id="mid" value="-1.000000"/>
+  <PARAM id="treble" value="-7.000000"/>
+  <PARAM id="presence" value="-9.000000"/>
+  <PARAM id="gate" value="-52.000000"/>
+  <PARAM id="output" value="-2.000000"/>
+  <PARAM id="missilerange" value="0.400000"/>
+  <PARAM id="casualties" value="150.000000"/>
+  <PARAM id="realshit" value="0.000000"/>
+  <PARAM id="coldwar" value="0.000000"/>
+  <PARAM id="repaircables" value="0.000000"/>
+  <PARAM id="cutcable" value="0.000000"/>
+  <PARAM id="satellite" value="1.000000"/>
+  <PARAM id="armmissiles" value="1.000000"/>
+</DADBADBASS_PARAMS>
